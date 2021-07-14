@@ -37,6 +37,8 @@ public class SignOnPageTest extends Main{
 		Assert.assertTrue(passwordTxtField.isEnabled());
 		Assert.assertTrue(submitBtn.isEnabled());
 	}
+	
+	// adding comments for GitHub practices
 
 
 
